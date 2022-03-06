@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginFiap</string>
+    <string name="logo_fiap">Logo FIAP</string>
+    <string name="login">Login</string>
+    <string name="icone_e_mail">Ícone e-mail</string>
+    <string name="insira_seu_e_mail">Insira seu e-mail</string>
+    <string name="icone_cadeado">Ícone cadeado</string>
+    <string name="insira_sua_senha">Insira sua senha</string>
+    <string name="esqueceu_senha">Esqueceu senha</string>
+    <string name="logar">Logar</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="ou">ou</string>
+</resources>
